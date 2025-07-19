@@ -1,6 +1,6 @@
 # feather-launcher
 
-#기능
+기능                                                                   
 🔒 통합 계정 관리
 여러 계정을 등록하고 쉽게 계정 전환을 할 수 있어요.
 Microsoft (OAuth 2.0) + Mojang (Yggdrasil) 인증을 모두 지원해요.
