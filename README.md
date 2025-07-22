@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/Icon.png" width="150px" height="150px" alt="mystic red space"></p>
+<p align="center"><img src="./app/assets/images/github_Icon.png" width="150px" height="150px" alt="mystic red space"></p>
 
 <h1 align="center">Feather Launcher</h1>
 
