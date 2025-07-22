@@ -39,7 +39,7 @@
 
 | 플랫폼 | 파일 |
 | -------- | ---- |
-| Windows x64 | `MRS-Launcher-setup-VERSION.exe` |
+| Windows x64 | `Feather-Launcher-setup-VERSION.exe` |
 [^1]: macOS 설치 파일은 서명되지 않아서 보안 경고가 뜰 수 있으며 정상 작동을 보장하지 않아요.
 
 ## 콘솔
